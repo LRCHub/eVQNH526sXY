@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "美少女無罪♡パイレーツ",
+  "base_artist": "宝鐘マリン",
+  "createdAt": "2025-12-20T14:24:29.130916Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美少女無罪♡パイレーツ",
+      "artist": "宝鐘マリン",
+      "has_synced": false,
+      "path": "select/pl_01_美少女無罪♡パイレーツ_宝鐘マリン.txt"
+    }
+  ]
+}
